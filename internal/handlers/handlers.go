@@ -2,10 +2,11 @@ package handlers
 
 import (
 	"fmt"
+	"training-diary/configs/entities"
+	"training-diary/internal/buttons"
+	"training-diary/internal/messages"
+
 	"github.com/yanzay/tbot/v2"
-	"training_diary/configs/entities"
-	"training_diary/internal/buttons"
-	"training_diary/internal/messages"
 )
 
 var (

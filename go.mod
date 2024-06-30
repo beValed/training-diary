@@ -1,6 +1,6 @@
-module training_diary
+module training-diary
 
-go 1.22.0
+go 1.22.4
 
 require (
 	github.com/joho/godotenv v1.5.1

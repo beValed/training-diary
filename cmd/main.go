@@ -1,12 +1,13 @@
 package main
 
 import (
-	"github.com/joho/godotenv"
-	"github.com/yanzay/tbot/v2"
 	"log"
 	"os"
-	"training_diary/configs/entities"
-	"training_diary/internal/handlers"
+	"training-diary/configs/entities"
+	"training-diary/internal/handlers"
+
+	"github.com/joho/godotenv"
+	"github.com/yanzay/tbot/v2"
 )
 
 var (
